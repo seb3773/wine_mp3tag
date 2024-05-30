@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mp3Tag
+Type=Application
+MimeType=audio/x-mp3;
+Terminal=false
+Categories=AudioVideo;Audio;
+X-TDE-StartupNotify=true
+Comment=Mp3 tag tool
+Icon=mp3tag
+Exec="$HOME/.win64/mp3tag.sh" %u
