@@ -9,8 +9,8 @@ This installer was designed for q4os trinity, but should work on any recent debi
   
 Instructions:  
   
-clone the repository, an cd to the wine_mp3tag folder
-set install_mp3tag.sh executable: sudo chmod +x ./install_mp3tag.sh
+clone the repository, an cd to the wine_mp3tag folder  
+set install_mp3tag.sh executable: sudo chmod +x ./install_mp3tag.sh  
 launch the installer: ./install_mp3tag.sh  
   
 Enjoy.  
